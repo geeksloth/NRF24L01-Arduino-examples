@@ -1,2 +1,3 @@
 # NRF24L01-Arduino-examples
-One way and bidirectional examples using of NRF24L01
+Simple and Bidirectional NRF24L01 examples
+
